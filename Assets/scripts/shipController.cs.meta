@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fa4d0d4a3976f442eb7ee02683fa7324
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bullet: {fileID: 184964, guid: 01b8593a55f244646a257b88776c4b47, type: 2}
+  - bluship: {fileID: 123636, guid: fe05393f1ae094252bdae4ef1c72ecdc, type: 2}
+  - redship: {fileID: 175240, guid: ed2973e9ff2ad46f88c4eb962854dd6b, type: 2}
+  - ylwship: {fileID: 182752, guid: dc2b84987be31488f9a856b288c570f4, type: 2}
+  - au_lasers: {fileID: 8237806, guid: 19623663669d5479b924efe332935745, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
